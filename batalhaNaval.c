@@ -7,13 +7,9 @@
 // Repositório oficial: https://github.com/Cursos-TI/desafio-batalha-naval-cristianojcruzzz
 
 #define SIZE 10
-
 #define WATER '~'
-
 #define SHIP 'S'
-
 #define AFFECTED 'x'
-
 #define DEFAULT_SHIP_SIZE 2
 
 void initBoard(char board[SIZE][SIZE])
